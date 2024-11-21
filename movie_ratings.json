@@ -1,0 +1,302 @@
+[
+ {
+  "MovieID": 1,
+  "Title": "3 Idiots",
+  "Genre": "Comedy",
+  "Rating": 8.4
+ },
+ {
+  "MovieID": 2,
+  "Title": "Dangal",
+  "Genre": "Drama",
+  "Rating": 8.3
+ },
+ {
+  "MovieID": 3,
+  "Title": "Gully Boy",
+  "Genre": "Drama",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 4,
+  "Title": "PK",
+  "Genre": "Comedy",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 5,
+  "Title": "Chhichhore",
+  "Genre": "Comedy",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 6,
+  "Title": "Bajrangi Bhaijaan",
+  "Genre": "Drama",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 7,
+  "Title": "Tumbbad",
+  "Genre": "Horror",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 8,
+  "Title": "Barfi!",
+  "Genre": "Romance",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 9,
+  "Title": "Andhadhun",
+  "Genre": "Thriller",
+  "Rating": 8.3
+ },
+ {
+  "MovieID": 10,
+  "Title": "Queen",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 11,
+  "Title": "Drishyam",
+  "Genre": "Thriller",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 12,
+  "Title": "Taare Zameen Par",
+  "Genre": "Drama",
+  "Rating": 8.4
+ },
+ {
+  "MovieID": 13,
+  "Title": "Udaan",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 14,
+  "Title": "Lagaan",
+  "Genre": "Drama",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 15,
+  "Title": "Swades",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 16,
+  "Title": "Zindagi Na Milegi Dobara",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 17,
+  "Title": "Black",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 18,
+  "Title": "Dil Chahta Hai",
+  "Genre": "Comedy",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 19,
+  "Title": "Paan Singh Tomar",
+  "Genre": "Biography",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 20,
+  "Title": "Rang De Basanti",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 21,
+  "Title": "Article 15",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 22,
+  "Title": "Kahaani",
+  "Genre": "Thriller",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 23,
+  "Title": "Sholay",
+  "Genre": "Action",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 24,
+  "Title": "Maqbool",
+  "Genre": "Crime",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 25,
+  "Title": "Haider",
+  "Genre": "Drama",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 26,
+  "Title": "Special 26",
+  "Genre": "Thriller",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 27,
+  "Title": "Badhaai Ho",
+  "Genre": "Comedy",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 28,
+  "Title": "The Lunchbox",
+  "Genre": "Romance",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 29,
+  "Title": "Pink",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 30,
+  "Title": "Masaan",
+  "Genre": "Drama",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 31,
+  "Title": "Hera Pheri",
+  "Genre": "Comedy",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 32,
+  "Title": "Baby",
+  "Genre": "Action",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 33,
+  "Title": "Gangs of Wasseypur",
+  "Genre": "Crime",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 34,
+  "Title": "Dear Zindagi",
+  "Genre": "Drama",
+  "Rating": 7.6
+ },
+ {
+  "MovieID": 35,
+  "Title": "Pad Man",
+  "Genre": "Biography",
+  "Rating": 7.9
+ },
+ {
+  "MovieID": 36,
+  "Title": "Raazi",
+  "Genre": "Thriller",
+  "Rating": 7.8
+ },
+ {
+  "MovieID": 37,
+  "Title": "Stree",
+  "Genre": "Horror",
+  "Rating": 7.6
+ },
+ {
+  "MovieID": 38,
+  "Title": "Sultan",
+  "Genre": "Drama",
+  "Rating": 7.0
+ },
+ {
+  "MovieID": 39,
+  "Title": "Bhool Bhulaiyaa",
+  "Genre": "Comedy",
+  "Rating": 7.3
+ },
+ {
+  "MovieID": 40,
+  "Title": "Dhoom 3",
+  "Genre": "Action",
+  "Rating": 5.4
+ },
+ {
+  "MovieID": 41,
+  "Title": "Dilwale Dulhania Le Jayenge",
+  "Genre": "Romance",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 42,
+  "Title": "Kabhi Khushi Kabhie Gham...",
+  "Genre": "Drama",
+  "Rating": 7.4
+ },
+ {
+  "MovieID": 43,
+  "Title": "Munna Bhai M.B.B.S.",
+  "Genre": "Comedy",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 44,
+  "Title": "Shahid",
+  "Genre": "Biography",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 45,
+  "Title": "Sardar Udham",
+  "Genre": "Biography",
+  "Rating": 8.4
+ },
+ {
+  "MovieID": 46,
+  "Title": "Udaan",
+  "Genre": "Drama",
+  "Rating": 8.2
+ },
+ {
+  "MovieID": 47,
+  "Title": "A Wednesday",
+  "Genre": "Thriller",
+  "Rating": 8.1
+ },
+ {
+  "MovieID": 48,
+  "Title": "Mimi",
+  "Genre": "Comedy",
+  "Rating": 8.0
+ },
+ {
+  "MovieID": 49,
+  "Title": "Ludo",
+  "Genre": "Comedy",
+  "Rating": 7.6
+ },
+ {
+  "MovieID": 50,
+  "Title": "Super 30",
+  "Genre": "Biography",
+  "Rating": 7.9
+ }
+]
